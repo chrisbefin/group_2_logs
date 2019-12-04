@@ -4,6 +4,10 @@ all group members present
 1. Aren walked us through the work he did on the database
 2. things to work on: authentication, storefront, messaging, adding an item, modifying account settings
 3. talked about what we are going to do for our presentation on Friday
+4. Busted out some code together
+  4.1 JS to process form for the settings page
+  4.2 A good majority of the storefront page is done
+  4.3 Can now create cards for items that are populated with data. Need to pull from the database.
 
 Kai: create user, firebase authentication
 Sabby: settings
